@@ -35,8 +35,7 @@
 <br />
 <br />
 
-** 🧰Languages and Tools:**  
-<br />
+**Languages and Tools:**  
 <br />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -58,6 +57,7 @@
 <img src="https://user-images.githubusercontent.com/34159717/119335133-9037c100-bca9-11eb-9cee-ce295518f8e6.png" alt="Lens Studio" height="35" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/34159717/119335328-da20a700-bca9-11eb-9a3d-2c8e85ce4f5d.png" alt="Spark Studio" height="35" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/34159717/119335465-0b00dc00-bcaa-11eb-973e-e0a4cef1f68b.png" alt="Materialize CSS" height="35" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/34159717/119337510-89f71400-bcac-11eb-9f58-57065f90bafd.png" alt="Firebase" height="35" style="vertical-align:top; margin:4px">
 
 <br /> 
 <br />
