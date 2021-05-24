@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@vblogs"
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,👉,👀,🤔) $title $url"
-          description_max_length: ""
+          description_max_length: "30"
