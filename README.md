@@ -64,6 +64,8 @@
 <details>
   <summary><h2>📘 Latest Blog posts</h2></summary>
 <!-- BLOG-POST-LIST:START -->
+- [Block in Block Scope..](https://vblogs.medium.com/block-in-block-scope-9ada915c4cb5?source=rss-8b2a4ed2bab1------2)
+- [Intro To Linux](https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
@@ -71,6 +73,11 @@
   <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#7185](https://github.com/education/GitHubGraduation-2021/issues/7185) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 🗣 Commented on [#8784](https://github.com/education/GitHubGraduation-2021/issues/8784) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+3. 🗣 Commented on [#8831](https://github.com/education/GitHubGraduation-2021/issues/8831) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 💪 Opened PR [#7185](https://github.com/education/GitHubGraduation-2021/pull/7185) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+5. 🎉 Merged PR [#1](https://github.com/viditvarshney/GitHubGraduation-2021/pull/1) in [viditvarshney/GitHubGraduation-2021](https://github.com/viditvarshney/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
 
 </details>
