@@ -25,7 +25,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/imvv/"><img src="https://img.shields.io/badge/-imvv-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvv/"></a>
 <a href="mailto:viditvarshney222@gmail.com"><img src="https://img.shields.io/badge/-viditvarshney222@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:viditvarshney222@gmail.com"></a>
-<a href="https://twitter.com/_imvv_"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20imvv"></a>
+<a href="https://twitter.com/_imvv"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20_imvv"></a>
 <a href="https://www.github.com/viditvarshney"><img src="https://img.shields.io/github/followers/viditvarshney?label=Follow&style=social" alt="Github Profile"></a>
 <a href="https://github.com/viditvarshney"><img src="https://visitor-badge.glitch.me/badge?page_id=viditvarshney.viditvarshney" alt="Profile Visits"></a>
 
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>👀 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1452](https://github.com/fossasia/susi_server/issues/1452) in [fossasia/susi_server](https://github.com/fossasia/susi_server)

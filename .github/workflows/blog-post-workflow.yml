@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@vblogs"
-          template: "$newline  $randomEmoji(💯,🔥,💫,🚀,🌮,👉,👀,🤔) $title"
+          template: "$newline $randomEmoji(💯,🔥,💫,🚀,🌮,👉,👀,🤔) [$title]($url) $newline"
           
