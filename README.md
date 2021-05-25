@@ -12,12 +12,24 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/_imvv?color=red&label=Follow&style=social)
+
+<!-- <a href="https://twitter.com/_imvv">
+    <img src="https://img.shields.io/twitter/follow/_imvv?color=red&label=Follow&style=social" alt ="Twiiter Profile">
+</a>
+
 <a href="mailto:viditvarshney222@gmail.com"><img src="https://img.shields.io/badge/-viditvarshney222@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:viditvarshney222@gmail.com"></a>
+
 <a href="https://www.linkedin.com/in/imvv/"><img src="https://img.shields.io/badge/-imvv-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvv/"></a>
-![GitHub followers](https://img.shields.io/github/followers/viditvarshney?label=Follow&style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=viditvarshney.viditvarshney)
- 
+
+<a href="https://www.github.com/viditvarshney"><img src="https://img.shields.io/github/followers/viditvarshney?label=Follow&style=social" alt="Github Profile"></a> -->
+<p align="center">
+<a href="https://www.linkedin.com/in/imvv/"><img src="https://img.shields.io/badge/-imvv-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvv/"></a>
+<a href="mailto:viditvarshney222@gmail.com"><img src="https://img.shields.io/badge/-viditvarshney222@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:viditvarshney222@gmail.com"></a>
+<a href="https://twitter.com/_imvv_"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20imvv"></a>
+<a href="https://www.github.com/viditvarshney"><img src="https://img.shields.io/github/followers/viditvarshney?label=Follow&style=social" alt="Github Profile"></a>
+<a href="https://github.com/viditvarshney"><img src="https://visitor-badge.glitch.me/badge?page_id=viditvarshney.viditvarshney" alt="Profile Visits"></a>
+
+</p>
 
 
 <!-- ![Vidit's GitHub stats](https://github-readme-stats.vercel.app/api?username=viditvarshney&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true) -->
@@ -62,10 +74,9 @@
 <br /> 
 <br />
 <details>
-  <summary><h2>📘 Latest Blog posts</h2></summary>
+  <summary>📘 Latest Blog posts</summary>
 <!-- BLOG-POST-LIST:START -->
- - 💯 Block in Block Scope.. https://vblogs.medium.com/block-in-block-scope-9ada915c4cb5?source=rss-8b2a4ed2bab1------2
- - 🌮 Intro To Linux https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
