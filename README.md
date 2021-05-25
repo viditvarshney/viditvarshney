@@ -76,7 +76,8 @@
 <details>
   <summary>📘 Latest Blog posts</summary>
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  💯 Block in Block Scope..
+  🌮 Intro To Linux<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
