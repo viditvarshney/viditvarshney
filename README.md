@@ -61,9 +61,8 @@
 <details>
   <summary>📘 Latest Blog posts</summary>
 <!-- BLOG-POST-LIST:START -->
- - 💯 [Block in Block Scope..](https://vblogs.medium.com/block-in-block-scope-9ada915c4cb5?source=rss-8b2a4ed2bab1------2)
- - 🌮 [Intro To Linux](https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2)
-<!-- BLOG-POST-LIST:END -->
+ 💯 [Block in Block Scope..](https://vblogs.medium.com/block-in-block-scope-9ada915c4cb5?source=rss-8b2a4ed2bab1------2)
+ 🌮 [Intro To Linux](https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2)<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
