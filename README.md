@@ -63,7 +63,9 @@
 <!-- BLOG-POST-LIST:START -->
  💯 [Make Your Identity in Cli World.](https://vblogs.medium.com/make-your-identity-in-cli-world-afec73066001?source=rss-8b2a4ed2bab1------2)
  🌮 [Block in Block Scope..](https://vblogs.medium.com/block-in-block-scope-9ada915c4cb5?source=rss-8b2a4ed2bab1------2)
- 🔥 [Intro To Linux](https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2)<!-- BLOG-POST-LIST:END -->
+ 🔥 [Intro To Linux](https://vblogs.medium.com/intro-to-linux-83ec7a923bdf?source=rss-8b2a4ed2bab1------2)
+ 🤔 [Part 2 Challenge #8 Solution](https://vblogs.medium.com/part-2-challenge-8-solution-4374637645df?source=rss-8b2a4ed2bab1------2)
+ 💯 [Best Book of Python for beginners ?](https://vblogs.medium.com/best-book-of-python-for-beginners-9221e13d4da2?source=rss-8b2a4ed2bab1------2)<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
