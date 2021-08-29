@@ -84,7 +84,7 @@
   <summary>👀 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1452](https://github.com/fossasia/susi_server/issues/1452) in [fossasia/susi_server](https://github.com/fossasia/susi_server)
+1. ❗️ Opened issue [#65](https://github.com/jamesgeorge007/github-activity-readme/issues/65) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Closed issue [#1452](https://github.com/fossasia/susi_server/issues/1452) in [fossasia/susi_server](https://github.com/fossasia/susi_server)
 3. 🗣 Commented on [#1452](https://github.com/fossasia/susi_server/issues/1452) in [fossasia/susi_server](https://github.com/fossasia/susi_server)
 4. ❗️ Closed issue [#1](https://github.com/viditvarshney/viditvarshney/issues/1) in [viditvarshney/viditvarshney](https://github.com/viditvarshney/viditvarshney)
