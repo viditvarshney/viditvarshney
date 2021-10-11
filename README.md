@@ -84,9 +84,9 @@
   <summary>👀 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#65](https://github.com/jamesgeorge007/github-activity-readme/issues/65) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#1452](https://github.com/fossasia/susi_server/issues/1452) in [fossasia/susi_server](https://github.com/fossasia/susi_server)
+1. 🗣 Commented on [#7](https://github.com/viditvarshney/Reaction-Timer.github.io/issues/7) in [viditvarshney/Reaction-Timer.github.io](https://github.com/viditvarshney/Reaction-Timer.github.io)
+2. 🗣 Commented on [#43](https://github.com/jamesgeorge007/github-activity-readme/issues/43) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#65](https://github.com/jamesgeorge007/github-activity-readme/issues/65) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. ❗️ Closed issue [#1](https://github.com/viditvarshney/viditvarshney/issues/1) in [viditvarshney/viditvarshney](https://github.com/viditvarshney/viditvarshney)
 5. 🗣 Commented on [#1](https://github.com/viditvarshney/viditvarshney/issues/1) in [viditvarshney/viditvarshney](https://github.com/viditvarshney/viditvarshney)
 <!--END_SECTION:activity-->
