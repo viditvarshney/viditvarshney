@@ -11,12 +11,19 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/imvv/"><img src="https://img.shields.io/badge/-imvv-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imvv/"></a>
-<a href="mailto:viditvarshney222@gmail.com"><img src="https://img.shields.io/badge/-viditvarshney222@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:viditvarshney222@gmail.com"></a>
-<a href="https://twitter.com/_imvv"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20_imvv"></a>
-<a href="https://www.github.com/viditvarshney"><img src="https://img.shields.io/github/followers/viditvarshney?label=Follow&style=social" alt="Github Profile"></a>
-<!-- <a href="https://github.com/viditvarshney"><img src="https://visitor-badge.glitch.me/badge?page_id=viditvarshney.viditvarshney" alt="Profile Visits"></a> -->
-<img src="https://komarev.com/ghpvc/?username=viditvarshney&label=Profile Visits" alt="viditvarshney" />
+  <a href="https://www.linkedin.com/in/imvv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:viditvarshney222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/_imvv">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://github.com/viditvarshney">
+    <img src="https://img.shields.io/github/followers/viditvarshney?label=GitHub&style=flat-square&logo=github" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=viditvarshney&label=Profile+Views&style=flat-square" alt="Profile Views" />
 </p>
 
 <br>
@@ -32,12 +39,21 @@
 <br>
 <br>
 
-<a href="https://github.com/viditvarshney">
-    <img align ="center" src="https://github-readme-stats.vercel.app/api?username=viditvarshney&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true" alt ="Vidit's Github Stats">
-</a>
-<a href="https://github.com/viditvarshney">
-    <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viditvarshney&layout=compact&hide=html" alt ="Vidit's Top Langs">
-</a>
+<p align="center">
+  <a href="https://github.com/viditvarshney">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=viditvarshney&show_icons=true&theme=slateorange"
+      alt="Vidit's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/viditvarshney">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=viditvarshney&layout=compact&hide=html&theme=slateorange"
+      alt="Vidit's Top Languages"
+    />
+  </a>
+</p>
 
 <br />
 <br />
